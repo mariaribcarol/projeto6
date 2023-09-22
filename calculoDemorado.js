@@ -9,4 +9,4 @@ function calculoDemorado(numero) {
 }
 calculoDemorado(10).then((resultado) => {
     console.log(resultado)
-})
+})  
